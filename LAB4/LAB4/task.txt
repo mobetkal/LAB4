@@ -1,0 +1,3 @@
+zadanie1 5 2
+zadanie2 1 2
+zadanie3 1 1
